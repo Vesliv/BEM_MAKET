@@ -61,6 +61,7 @@
     font-size: 16px;
     padding: 8px 16px;
     border: 2px solid #f8f8f8;
+    color: black;
   }
   .body__nav a:hover {
     text-decoration: none;
@@ -156,6 +157,10 @@
     margin: 20px 0;
   }
   .body__nav a{
+    font-size: 17px;
+    
+  }
+  .body__nav a:hover{
     font-size: 17px;
   }
   .body__nav--dt{
