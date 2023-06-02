@@ -40,7 +40,7 @@
   }
   .navbar__nav {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     height: 88px;
   }
   .navbar__menu {
@@ -64,7 +64,7 @@
   }
   .title__text h1 {
     font-family: "TT Lakes Bold";
-    padding: 0 16px;
+    padding: 0 24px;
     border-left: 4px solid #41f6d7;
   }
   .support-btn{
@@ -78,9 +78,10 @@
   .nav__item {
     text-decoration: none;
     font-size: 16px;
-    padding: 8px 16px;
+    padding: 8px 24px;
     border: 2px solid #f8f8f8;
     color:#7E7E82;
+    padding-top: 24px;
   }
   .nav a:hover {
     text-decoration: none;
